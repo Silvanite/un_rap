@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "vuepress dev www",
-    "build": "vuepress build"
+    "build": "vuepress build www"
   },
   "keywords": [],
   "author": "",
