@@ -1,0 +1,17 @@
+{
+  "name": "unrapify",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev www",
+    "build": "vuepress build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@silvanite/vuepress-plugin-tailwind": "^1.2.0",
+    "vuepress": "^1.2.0"
+  }
+}
