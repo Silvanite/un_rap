@@ -1,5 +1,5 @@
 module.exports = {
     markdown: {
-        anchor: false,
+        anchor: { permalink: false, permalinkBefore: false, permalinkSymbol: '' }
     },
 }
