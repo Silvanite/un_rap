@@ -1,12 +1,24 @@
 @tailwind base;
 @tailwind components;
 
+h1 {
+    @apply text-3xl;
+}
+
+h2 {
+    @apply text-2xl;
+}
+
+h3, h4, h5, h6 {
+    @apply text-xl;
+}
+
 .md-paragraph_open {
     @apply px-8 mb-8 block text-lg text-gray-800;
 }
 
-h3.md-heading_open {
-    @apply text-2xl mx-8 pt-8 mb-4 font-bold text-gray-600 block border-b-4 border-orange-100;
+.md-heading_open {
+    @apply mx-8 pt-8 mb-4 font-bold text-gray-600 block border-b-4 border-orange-100;
 }
 
 .md-link_open {

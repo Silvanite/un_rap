@@ -21,5 +21,10 @@ module.exports = {
                 ]
             }
         ],
+        [
+            '@vuepress/medium-zoom', {
+                selector: 'img.zoomable',
+            }
+        ],
     ],
 }

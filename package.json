@@ -13,6 +13,7 @@
   "dependencies": {
     "@silvanite/vuepress-plugin-markdown-classes": "^1.0.2",
     "@silvanite/vuepress-plugin-tailwind": "^1.2.0",
+    "@vuepress/plugin-medium-zoom": "^1.2.0",
     "vuepress": "^1.2.0"
   }
 }

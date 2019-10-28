@@ -4,6 +4,8 @@
 
 I became aware of the devastating effects of plastic pollution a few years ago and began reducing the amount of plastic I used. But last year it really hit home. I took a trip to Indonesia and saw rivers filled with bottles and I stayed on islands loading mounds of plastic onto boats. The effects of plastic pollution over there are so apparent, you can’t ignore them.
 
+![Hannah, founder of un_rap](../www/assets/hannah-un_rap.jpg)
+
 Later in the year I planned a second trip – to walk El Camino de Stantiago in Spain. A 500 mile thru-hike. I wanted to be out in nature all day, with little other purpose. Wanting a challenge and to raise awareness - I pledged to walk the 500 miles refusing all single-use plastics, carrying as little as humanly possible. I got people talking about the plastic issue, I raised money for Surfers Against Sewage & created a campaign called #500greenmile.
 
 I came home from the walk with the idea of opening a plastic free shop that provides only ethically sourced, package free goods.  I soon discovered the only zero waste shop in the country (Earth Food Love, in Totnes) and I knew Falmouth would be the perfect place to build my dream. Despite suddenly being very busy with a PGCE to become a primary school teacher, I worked tirelessly. We opened on July 21st 2018, a week after I became a qualified teacher ...

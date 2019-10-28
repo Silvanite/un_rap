@@ -1,12 +1,10 @@
 <site-header />
 
-### Fill your containers
+# Fill your containers
 
-Our Products ...
+Have fun filling your containers using our various dispensers
 
-* [Baking]()
-* [Cereal & Oats]()
-* [Cleaning Products]()
+<sub-pages path="/products" class="mb-8 p-8" />
 
 Finally, [Pay at the till](./pay)
 
