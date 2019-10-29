@@ -8,8 +8,6 @@ We do offer paper bags free of charge, just in case you forget your containers, 
 
 People donate their empty jars and you can take them free of charge.
 
-Next [Fill your containers](./fill-containers)
+Next [Fill your containers](./fill-containers.md)
 
 <we-believe />
-
-<footer-menu />

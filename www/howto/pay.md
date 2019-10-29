@@ -4,8 +4,6 @@
 
 Pay by weight. Cash, Credit and Debit cards accepted.
 
-[Read more about our story](../story)
+[Read more about our story](../story.md)
 
 <we-believe />
-
-<footer-menu />

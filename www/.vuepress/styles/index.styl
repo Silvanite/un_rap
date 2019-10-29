@@ -14,19 +14,27 @@ h3, h4, h5, h6 {
 }
 
 .md-paragraph_open {
-    @apply px-8 mb-8 block text-lg text-gray-800;
-}
+    @apply px-8 mb-8 block text-lg text-gray-800 max-w-2xl mx-auto;
 
-.md-heading_open {
-    @apply mx-8 pt-8 mb-4 font-bold text-gray-600 block border-b-4 border-orange-100;
+    a {
+        @apply text-orange-500 font-bold underline;
+
+        &:hover {
+            @apply no-underline;
+        }
+    }
 }
 
 .md-link_open {
     @apply text-orange-500 font-bold underline;
 
-    :hover {
+    &:hover {
         @apply no-underline;
     }
+}
+
+.md-heading_open {
+    @apply px-8 pt-8 mb-4 font-bold text-gray-600 block border-b-4 border-orange-100 max-w-2xl mx-auto;
 }
 
 .header-anchor {

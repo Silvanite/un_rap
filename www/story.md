@@ -12,7 +12,4 @@ I came home from the walk with the idea of opening a plastic free shop that prov
 
 The most rewarding thing about running a shop is being part of the community. I have the opportunity to give so much and the love I receive in return is unsurmountable. One of the biggest driving forces behind my idea was being able to supply Falmouth with sustainable choice and solutions, it feels great to be achieving this. It also really suits me being my own boss! And I enjoy giving talks & running courses on plastic pollution, zero waste living & starting your own sustainable business.
 
-
 <image-grid />
-
-<footer-menu />

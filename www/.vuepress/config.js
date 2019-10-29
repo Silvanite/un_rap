@@ -13,7 +13,6 @@ module.exports = {
                     'heading_open',
                     'hr',
                     'image',
-                    'link_open',
                     'ordered_list_open',
                     'paragraph_open',
                     'softbreak',

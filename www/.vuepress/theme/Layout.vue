@@ -1,6 +1,7 @@
 <template>
     <div class="mb-20">
-        <Content />
+        <Content class="container mx-auto" />
+        <footer-menu />
     </div>
 </template>
 

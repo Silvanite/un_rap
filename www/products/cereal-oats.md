@@ -14,5 +14,3 @@ Bicarbonate of Soda
 UK
 
 [More products](/howto/fill-containers.html)
-
-<footer-menu />
