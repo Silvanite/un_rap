@@ -1,10 +1,12 @@
 <template>
-    <h2 class="my-8 px-8 py-16 text-3xl text-gray-700 leading-none bg-orange-100">
-        We belive in
-        <span class="font-bold text-orange-500 block md:inline">
-            {{ believe }}.
-        </span>
-    </h2>
+    <div class="my-8 px-8 py-16 text-3xl text-gray-700 leading-none font-display bg-orange-100 md:mt-0">
+        <div class="container mx-auto md:px-8 md:text-center">
+            We belive in
+            <span class="font-bold text-orange-500 block md:inline">
+                {{ believe }}.
+            </span>
+        </div>
+    </div>
 </template>
 
 <script>

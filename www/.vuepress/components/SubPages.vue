@@ -1,5 +1,5 @@
 <template>
-    <ul class="flex flex-col w-full">
+    <ul class="flex flex-col w-full md-unordered_list_open">
         <li v-for="{path, title, frontmatter} in navItems" class="flex-1">
             <router-link
                 :to="path"
