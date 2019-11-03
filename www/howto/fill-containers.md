@@ -1,5 +1,5 @@
 ---
-title: Step 2 – Fill your containers
+title: Fill your containers with eco-friendly products
 description: Have fun filling your containers from our range of organic, zero waste products using our various dispensers.
 ---
 # Fill your containers

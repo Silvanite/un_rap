@@ -1,5 +1,5 @@
 ---
-title: Step 1 – Weigh your containers
+title: Weigh your refillable containers
 description: We are huge advocates of reusing over recycling, so if it can be weighed, it can be used to refill.
 ---
 # Weigh your containers
