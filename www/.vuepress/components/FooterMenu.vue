@@ -2,9 +2,9 @@
     <div class="fixed bottom-0 left-0 w-full bg-white p-2 border-t border-gray-300">
         <div class="flex justify-around max-w-2xl mx-auto">
             <div class="text-center">
-                <router-link to="/index">
+                <router-link to="/index" class="border-r-2 pr-8">
                     <img class="inline h-16 w-16" src="../../assets/sunflower-logo-72.png" alt="">
-                    <img class="hidden md:inline pr-8 h-12" src="../../assets/un_rap-logo.png" alt="">
+                    <img class="hidden md:inline h-12" src="../../assets/un_rap-logo.png" alt="">
                 </router-link>
             </div>
             <div class="text-center">
@@ -28,6 +28,8 @@
 
 <script>
 export default {
+    name: 'FooterMenu',
+
     data() {
         return {
             // headerImage: require('../../assets/unrap_jar.jpg'),
