@@ -29,7 +29,7 @@ export default {
             return this.$site.pages
                 .filter(({ path }) => path !== this.filterPath)
                 .filter(({ path }) => path.match(new RegExp(`^${this.filterPath}?.*`)))
-                .sort((a, b) => a.path < b.path ? 1 : -1)
+                .sort((a, b) => a.path > b.path ? 1 : -1)
         },
         filterPath() {
             return this.path || this.$page.path
