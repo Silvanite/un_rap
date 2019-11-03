@@ -4,61 +4,80 @@ description: Organic Snacks & Chocolate from zero waste, plastic free, un_rap in
 ---
 # Snacks & Chocolate
 
-Banana Chips
+## Banana Chips
+
 organic, vegan Org Bananas, Org Coconut oil, Org Sugar
 
-Bombay Mix
+## Bombay Mix
+
 non-organic, UK
 
-Carob Peanuts
+## Carob Peanuts
+
 non-organic, non-vegan
 
-Carob Raisins
+## Carob Raisins
+
 Non-organic, non-vegan
 
-Chili Peanuts
+## Chili Peanuts
+
 non-organic, wheat
 
-Choco Brazils
+## Choco Brazils
+
 plain/dark chocolate coated Brazil nuts. non-organic, dairy.
 
-Chocolate Buttons
+## Chocolate Buttons
+
 Very dark, dark, milk and white chocolate buttons available to buy by weight. All organic. Very dark are vegan.
 
-Chocolate Coated Peanuts
+## Chocolate Coated Peanuts
+
 non-organic, dairy
 
-Cocoa Nibs
+## Cocoa Nibs
+
 organic, raw, Peru
 
-Crystallized Ginger
+## Crystallized Ginger
+
 organic, sugar
 
-Fruit & Nut Mix
+## Fruit & Nut Mix
+
 organic
 
-Japanese Rice Crackers
+## Japanese Rice Crackers
+
 non-organic, Japan
 
-Nutritional Yeast
+## Nutritional Yeast
+
 with Vitamin B12
 
-Peanut Butter
+## Peanut Butter
+
 Freshly ground peanut butter on tap. Bring a jar and refill instantly in-store. No oil, no salt, no nasties. Organic, roasted peanuts, China.
 
-Popping Corn
+## Popping Corn
+
 organic, Italy
 
-Rio Nuevo Chocolate
+## Rio Nuevo Chocolate
+
 A selection of Rio Nuevo Chocolate including: 60%, 72% & 80% bars, drinking chocolate and 72% chocolate available to pay by weigh. Made locally in Penryn and all vegan.
 
-Toasted Coconut Chips
+## Toasted Coconut Chips
+
 organic, Philippines
 
-Yoghurt Peanuts
+## Yoghurt Peanuts
+
 non-organic, dairy
 
-Yoghurt Raisins
+## Yoghurt Raisins
+
 non-organic, dairy
 
 [More products](/howto/fill-containers.html)

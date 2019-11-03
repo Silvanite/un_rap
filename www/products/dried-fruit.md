@@ -4,46 +4,60 @@ description: Organic Dried Fruit from zero waste, plastic free, un_rap in Falmou
 ---
 # Dried Fruit
 
-Banana Chips
+## Banana Chips
+
 organic, vegan Org Bananas, Org Coconut oil, Org Sugar
 
-Cranberries in apple juice
+## Cranberries in apple juice
+
 organic, Canada
 
-Figs (whole)
+## Figs (whole)
+
 organic, Turkey
 
-Goji Berries
+## Goji Berries
+
 organic, China
 
-Mango
+## Mango
+
 One of our best sellers. organic, Burkina Faso
 
-Mixed Fruit
+## Mixed Fruit
+
 organic, sultanas, raisins, currants
 
-Pitted Dates
+## Pitted Dates
+
 organic, Tunisia
 
-Pitted Prunes
+## Pitted Prunes
+
 organic, USA
 
-Raisins
+## Raisins
+
 dressed in sunflower oil, organic, Turkey
 
-Sour Cherries
+## Sour Cherries
+
 organic, Uzbekistan
 
-Sultanas
+## Sultanas
+
 dressed in sunflower oil, organic, Turkey
 
-Sun-dried Tomatoes
+## Sun-dried Tomatoes
+
 organic, Turkey
 
-Whole Apricots
+## Whole Apricots
+
 organic, Turkey
 
-Whole Chillies
+## Whole Chillies
+
 non-organic, red, India
 
 [More products](/howto/fill-containers.html)

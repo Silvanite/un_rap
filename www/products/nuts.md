@@ -4,43 +4,56 @@ description: Organic Nuts from zero waste, plastic free, un_rap in Falmouth
 ---
 # Nuts
 
-Almonds
+## Almonds
+
 raw, unblanched, organic, Spain
 
-Brazil Nuts
+## Brazil Nuts
+
 Bolivia
 
-Cashew Nuts
+## Cashew Nuts
+
 Whole, organic, India
 
-Flaked Almonds
+## Flaked Almonds
+
 organic,
 
-Fruit & Nut Mix
+## Fruit & Nut Mix
+
 organic
 
-Ground Almond
+## Ground Almond
+
 organic, Spain
 
-Hazelnuts
+## Hazelnuts
+
 raw, organic, Turkey
 
-Nut Mix
+## Nut Mix
+
 raw, organic
 
-Peanut Butter
+## Peanut Butter
+
 Freshly ground peanut butter on tap. Bring a jar and refill instantly in-store. No oil, no salt, no nasties. Organic, roasted peanuts, China.
 
-Peanuts
+## Peanuts
+
 Raw, pale-skin, China
 
-Pine Nuts
+## Pine Nuts
+
 organic, China
 
-Pistachio Nuts
+## Pistachio Nuts
+
 Shell-less kernals, raw, organic, Spain
 
-Walnuts
+## Walnuts
+
 Halves, light, organic, Moldova
 
 [More products](/howto/fill-containers.html)

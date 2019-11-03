@@ -4,85 +4,112 @@ description: Organic baking products from zero waste, plastic free, un_rap in Fa
 ---
 # Baking products
 
-Baking Powder
+## Baking Powder
+
 UK
 
-Bicarbonate of Soda
+## Bicarbonate of Soda
+
 UK
 
-Bouillon Vegetable Stock
+## Bouillon Vegetable Stock
+
 organic, Marigold, non-vegan
 
-Brown Rice Flour
+## Brown Rice Flour
+
 organic, gluten free
 
-Buckwheat Flour
+## Buckwheat Flour
+
 organic, gluten free, Holland
 
-Castor Sugar
+## Castor Sugar
+
 organic, Brazil
 
-Cocoa Nibs
+## Cocoa Nibs
+
 organic, raw, Peru
 
-Cocoa Powder
+## Cocoa Powder
+
 organic, Switzerland
 
-Coconut Sugar
+## Coconut Sugar
+
 organic, Indonesia
 
-Cornflour
+## Cornflour
+
 UK
 
-Cornish Sea Salt
+## Cornish Sea Salt
+
 Salt Crystals from The Cornish Sea Salt Company.
 
-Cornish Seasalad (Cornish Seaweed Co.)
+## Cornish Seasalad (Cornish Seaweed Co.)
+
 From the Cornish Seaweed Company - Seasalad is a blend of delicious seaweeds used in cooking and seasoning. A cookbook is available to browse in-store.
 
-Demerara Sugar
+## Demerara Sugar
+
 organic, Mauritius
 
-Flaked Almonds
+## Flaked Almonds
+
 organic,
 
-Ground Almond
+## Ground Almond
+
 organic, Spain
 
-Icing Sugar
+## Icing Sugar
+
 organic
 
-Lightly Granulated Sugar
+## Lightly Granulated Sugar
+
 organic, Brazil
 
-Nutritional Yeast
+## Nutritional Yeast
+
 with Vitamin B12
 
-Pasta Flour
+## Pasta Flour
+
 organic, UK
 
-Pine Nuts
+## Pine Nuts
+
 organic, China
 
-Plain White Flour
+## Plain White Flour
+
 organic, UK
 
-Polenta
+## Polenta
+
 Italy
 
-Self-Raising White Flour
+## Self-Raising White Flour
+
 organic, UK
 
-Semolina
+## Semolina
+
 organic, Holland
 
-Strong White Bread Flour
+## Strong White Bread Flour
+
 organic, stone-ground, UK
 
-Strong Wholemeal Flour
+## Strong Wholemeal Flour
+
 organic, stone ground, UK,
 
-Wholegrain Spelt Flour
+## Wholegrain Spelt Flour
+
 organic, UK
 
 [More products](/howto/fill-containers.html)

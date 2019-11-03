@@ -4,40 +4,52 @@ description: Organic Pulses, Legumes, Lentils from zero waste, plastic free, un_
 ---
 # Pulses, Legumes, Lentils
 
-Beluga Lentils
+## Beluga Lentils
+
 organic, Canada
 
-Brown Lentils
+## Brown Lentils
+
 organic, Turkey
 
-Butter Beans
+## Butter Beans
+
 organic
 
-Cannellini Beans
+## Cannellini Beans
+
 organic
 
-Chickpeas
+## Chickpeas
+
 organic, Italy
 
-Green Lentils
+## Green Lentils
+
 organic, Slovakia
 
-Kidney Beans
+## Kidney Beans
+
 organic
 
-Mung Beans
+## Mung Beans
+
 organic, China
 
-Pinto Beans
+## Pinto Beans
+
 organic
 
-Red Split Lentils
+## Red Split Lentils
+
 organic
 
-Soya Beans
+## Soya Beans
+
 organic, China
 
-Yellow Split Peas
+## Yellow Split Peas
+
 organic, Holland
 
 [More products](/howto/fill-containers.html)

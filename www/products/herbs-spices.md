@@ -4,130 +4,172 @@ description: Organic Herbs & Spices from zero waste, plastic free, un_rap in Fal
 ---
 # Herbs & Spices
 
-Aniseed
+## Aniseed
+
 organic
 
-Basil
+## Basil
+
 organic
 
-Bay Leaves
+## Bay Leaves
+
 organic
 
-Black Peppercorns
+## Black Peppercorns
+
 organic
 
-Bouillon Vegetable Stock
+## Bouillon Vegetable Stock
+
 organic, Marigold, non-vegan
 
-Caraway Seeds
+## Caraway Seeds
+
 organic
 
-Cardamon Ground
+## Cardamon Ground
+
 organic
 
-Cardamon Pods
+## Cardamon Pods
+
 organic
 
-Cayenne Pepper
+## Cayenne Pepper
+
 organic
 
-Chili Powder
+## Chili Powder
+
 organic
 
-Cinnamon Ground
+## Cinnamon Ground
+
 organic
 
-Cinnamon Quills
+## Cinnamon Quills
+
 Cinnamon sticks, organic
 
-Cloves
+## Cloves
+
 organic
 
-Coriander Ground
+## Coriander Ground
+
 organic
 
-Coriander Seeds
+## Coriander Seeds
+
 organic
 
-Cornish Sea Salt
+## Cornish Sea Salt
+
 Salt Crystals from The Cornish Sea Salt Company.
 
-Cornish Seasalad (Cornish Seaweed Co.)
+## Cornish Seasalad (Cornish Seaweed Co.)
+
 From the Cornish Seaweed Company - Seasalad is a blend of delicious seaweeds used in cooking and seasoning. A cookbook is available to browse in-store.
 
-Cumin Ground
+## Cumin Ground
+
 organic
 
-Cumin Seeds
+## Cumin Seeds
+
 organic
 
-Curry Powder
+## Curry Powder
+
 organic
 
-Fennel Seeds
+## Fennel Seeds
+
 organic
 
-Fenugreek Seeds
+## Fenugreek Seeds
+
 organic
 
-Garam Masala
+## Garam Masala
+
 organic
 
-Garlic Ground
+## Garlic Ground
+
 organic
 
-Ginger Ground
+## Ginger Ground
+
 organic
 
-Herbs de Provence
+## Herbs de Provence
+
 organic
 
-Mint
+## Mint
+
 organic
 
-Mixed Herbs
+## Mixed Herbs
+
 organic
 
-Mixed Spice
+## Mixed Spice
+
 organic
 
-Mustard Seeds
+## Mustard Seeds
+
 organic
 
-Nutmeg Ground
+## Nutmeg Ground
+
 organic
 
-Nutritional Yeast
+## Nutritional Yeast
+
 with Vitamin B12
 
-Oregano
+## Oregano
+
 organic
 
-Paprika
+## Paprika
+
 organic
 
-Paprika Smoked
+## Paprika Smoked
+
 organic
 
-Parsley
+## Parsley
+
 organic
 
-Rosemary
+## Rosemary
+
 organic
 
-Sage
+## Sage
+
 organic
 
-Star Anise
+## Star Anise
+
 organic
 
-Thyme
+## Thyme
+
 organic
 
-Tumeric
+## Tumeric
+
 organic
 
-Whole Chillies
+## Whole Chillies
+
 non-organic, red, India
 
 [More products](/howto/fill-containers.html)

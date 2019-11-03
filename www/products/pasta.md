@@ -4,34 +4,44 @@ description: Organic Pasta from zero waste, plastic free, un_rap in Falmouth
 ---
 # Pasta
 
-White Farfalle (Bows)
+## White Farfalle (Bows)
+
 organic, durum wheat, vegan, Italy
 
-White Fusilli
+## White Fusilli
+
 organic, durum wheat, vegan, Italy
 
-White Gomitini (Macaroni)
+## White Gomitini (Macaroni)
+
 organic, durum wheat, vegan, Italy
 
-White Lasagna
+## White Lasagna
+
 organic, durum wheat, vegan, Italy
 
-White Penne
+## White Penne
+
 organic, durum wheat, vegan, Italy
 
-White Spaghetti
+## White Spaghetti
+
 organic, durum wheat, vegan, Italy
 
-Wholewheat Fusilli
+## Wholewheat Fusilli
+
 organic, durum wheat, vegan, Italy
 
-Wholewheat Gomitini (Macaroni)
+## Wholewheat Gomitini (Macaroni)
+
 organic, durum wheat, vegan, Italy
 
-Wholewheat Penne
+## Wholewheat Penne
+
 organic, durum wheat, vegan, Italy
 
-Wholewheat Spaghetti
+## Wholewheat Spaghetti
+
 organic, durum wheat, vegan, Italy
 
 [More products](/howto/fill-containers.html)
